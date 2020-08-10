@@ -28,5 +28,5 @@
 
 
 
-[youtube]: https://codeSTACKr.com
-[gmail]: (mailto:liviuandrei.dev@gmail.com?subject=[GitHub])
+[youtube]: https://www.youtube.com/channel/UCdfoa57ihTD9WUCMjSlgF3A/videos?view_as=subscriber
+[gmail]: mailto:liviuandrei.dev@gmail.com?subject=[GitHub]
