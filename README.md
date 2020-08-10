@@ -7,11 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://github.com/OblivionLi/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">][https://www.youtube.com/channel/UCdfoa57ihTD9WUCMjSlgF3A]
+[<img align="left" alt="OblivionLi's github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[<img align="left" alt="https://github.com/OblivionLi/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg">]
-
-[@liviuandrei.dev@gmail](mailto:liviuandrei.dev@gmail.com?subject=[GitHub])
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg">][gmail]
 
 <br />
 
@@ -27,3 +25,8 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+
+
+
+[youtube]: https://codeSTACKr.com
+[gmail]: (mailto:liviuandrei.dev@gmail.com?subject=[GitHub])
