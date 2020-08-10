@@ -4,7 +4,7 @@
 - 📋 I'm currently working on an Ecommerce Shop (clothes-shop - [Go To source code](https://github.com/OblivionLi/clothes-shop))
 - 🌱 I'm currently learning how to work with Laravel and React
 - 🥅 2020 Goals: Improving my skills
-- 🔨 Open for work
+- 🔨 Open to work
 
 ### Connect with me:
 
