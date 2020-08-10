@@ -1,7 +1,7 @@
 ### Hi there, I'm Liviu - aka [OblivionLi] 👋
 
 ## I'm a web developer !
-- 📋 I'm currently working on a Ecommerce Shop (clothes-shop - [Go To source code](https://github.com/OblivionLi/clothes-shop))
+- 📋 I'm currently working on an Ecommerce Shop (clothes-shop - [Go To source code](https://github.com/OblivionLi/clothes-shop))
 - 🌱 I'm currently learning how to work with Laravel and React
 - 🥅 2020 Goals: Improving my skills
 
