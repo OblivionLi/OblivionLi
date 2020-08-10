@@ -1,4 +1,4 @@
-### Hi there, I'm Liviu - aka [OblivionLi] 👋
+### Hi there, I'm Liviu - aka [OblivionLi || minus)emp] 👋
 
 ## I'm a web developer !
 - 📋 I'm currently working on an Ecommerce Shop (clothes-shop - [Go To source code](https://github.com/OblivionLi/clothes-shop))
