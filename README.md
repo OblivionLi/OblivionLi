@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://github.com/OblivionLi/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">][https://www.youtube.com/channel/UCdfoa57ihTD9WUCMjSlgF3A]
-[<img align="left" alt="https://github.com/OblivionLi/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg">](mailto:liviuandre.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[<img align="left" alt="https://github.com/OblivionLi/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg">][mailto:liviuandre.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)]
 
 <br />
 
