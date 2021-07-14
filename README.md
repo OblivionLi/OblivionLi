@@ -4,7 +4,6 @@
 - https://oblivionli.github.io/
 
 ## I'm a web developer !
-- 📋 I'm currently working on an Ecommerce Shop (clothes-shop - [Go To source code](https://github.com/OblivionLi/shop))
 - 🌱 I'm currently learning how to better work with Laravel and React
 - 🥅 2021 Goals: Improving my skills, learning more skills
 - 🔨 Open to work
