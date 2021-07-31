@@ -1,4 +1,4 @@
-### Hi there, I'm Liviu - aka [OblivionLi || minus)emp] 👋
+### Hi there, I'm Liviu - [OblivionLi] 👋
 
 ## Portfolio
 - https://oblivionli.github.io/
