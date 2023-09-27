@@ -3,7 +3,7 @@
 ## Portfolio
 - https://oblivionli.github.io/
 
-## I'm a software engineer that can dabble in any programming field !
+## I'm a software engineer !
 - 🔨 Building games in my free time
 
 ### Connect with me:
